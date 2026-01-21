@@ -6,6 +6,7 @@
 
 * DApp: https://PredP.red
 * bonding curve: https://www.desmos.com/calculator/feajupdyju
+* [pitch deck](https://www.canva.com/design/DAG_Cq1z93E/ir5ze-JHcyavi0r1lg-K8Q/edit?utm_content=DAG_Cq1z93E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 1. Project Overview
 
