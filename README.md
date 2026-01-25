@@ -19,9 +19,45 @@ As an information aggregation tool, prediction markets can effectively collect a
 
 PredP.red was developed against this backdrop, aiming to leverage the advantages of blockchain technology to build an efficient, secure, and transparent decentralized prediction market platform.
 
+### 1.3 Problem & Solution
+
+## Core Problems in Traditional Prediction Markets
+
+### Limited Liquidity & Price Volatility
+Traditional prediction markets suffer from insufficient liquidity, leaving users trapped during volatility. Prices fluctuate wildly, making trading unpredictable, while complex mechanisms deter casual users.
+
+### Market Manipulation
+Centralized platforms are vulnerable: insiders altering rules, bad actors exploiting short-term markets, and users losing trust after falling victim to rigged outcomes.
+
+### Centralized Control & Opacity
+Traditional platforms operate with centralized authority, lacking transparency in operations and fund management, requiring high trust costs, and imposing geographic restrictions.
+
+### Inaccessible to Casual Users
+The "all-or-nothing" nature deters risk-averse users, creates uneven playing fields dominated by experts, and misses valuable collective wisdom from diverse backgrounds.
+
+### Stifled Innovation
+Centralized control limits market creation to platform-approved topics, restricting creativity and offering no incentives for users to create quality markets.
+
+## How PredP.red Solves These Problems
+
+### Infinite Liquidity Through Non-Linear Price Model
+Our core formula `Price = K * Sqrt(X) + C` creates unlimited liquidity, smooth price curves, accessible entry, and fair market signals.
+
+### Anti-Manipulation Design
+We build markets resistant to manipulation by focusing on long-term, multi-factor topics that no single entity can control, leveraging blockchain immutability.
+
+### Decentralized & Transparent Architecture
+Based on the EIP-2535 Diamond Standard, our modular, upgradable smart contracts ensure on-chain transparency, global accessibility, and reduced trust costs.
+
+### Inclusive Incentive Mechanism
+Our hybrid reward system includes winning rewards, loss compensation (PFT tokens), 50% fee-sharing for market creators, and an inclusive learning ecosystem.
+
+### User-Driven Market Creation
+We empower users to create markets on any topic, earn direct financial rewards, build communities around shared interests, and drive platform growth through decentralized innovation.
+
 ### 1.2 Our Motivation
 
-Every decision in building PredP.red stems from our commitment to solving real problems in prediction markets. Here's what drives us:
+Every decision in building PredP.red stems from our commitment to solving these real problems in prediction markets. Here's what drives us:
 
 #### Liquidity Crisis Solution
 
