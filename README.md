@@ -19,6 +19,30 @@ As an information aggregation tool, prediction markets can effectively collect a
 
 PredP.red was developed against this backdrop, aiming to leverage the advantages of blockchain technology to build an efficient, secure, and transparent decentralized prediction market platform.
 
+### 1.2 Our Motivation
+
+Every decision in building PredP.red stems from our commitment to solving real problems in prediction markets. Here's what drives us:
+
+#### Liquidity Crisis Solution
+
+We witnessed users trapped in positions during volatility due to insufficient liquidity, markets manipulated by large traders, and complex mechanisms deterring casual participation. This frustration led us to develop our core price model: `Price = K * Sqrt(X) + C`. This formula wasn't just technical—it was our answer to create "infinite liquidity," where anyone could trade anytime regardless of market size, with prices smoothly reflecting true sentiment.
+
+#### Fighting Market Manipulation
+
+Market manipulation outraged us: platforms altering rules when outcomes didn't favor insiders, bad actors exploiting short-term markets, and users abandoning prediction markets entirely after falling victim to rigged outcomes. We designed markets inherently resistant to manipulation, focusing on long-term, multi-factor topics like "February's monthly BTC closing price average range"—too complex and time-consuming for any single entity to control.
+
+#### Community-Led Growth
+
+We believed the best ideas come from diverse communities, not just centralized teams. Traditional platforms restricted who could create markets, limiting topics to narrow interests, and offered no incentives for creators to promote quality markets. Our 50% fee-sharing model turns users into stakeholders, giving them direct financial incentive to create engaging markets and share them with their networks.
+
+#### Democratizing Access
+
+We asked: How do we make prediction markets accessible to everyone, not just risk-tolerant experts? The "all-or-nothing" nature deterred casual users, experienced traders dominated markets, and excluding risk-averse users meant losing valuable perspectives. Our solution: the $PFT token compensating incorrect predictions. This wasn't just a consolation prize—it transformed prediction markets from high-stakes gambling into an inclusive learning ecosystem.
+
+#### Our Unifying Vision
+
+PredP.red is our response to a broken status quo. We're driven by the belief that technology can create fairer systems where collective wisdom is valued, rules are transparent, and everyone has a stake in success. Every challenge we overcome, every feature we launch, and every user we onboard reaffirms that our motivations are the building blocks of a prediction market that truly works for everyone.
+
 
 <img src="./screenshot/2.png"  width="100%"/>
 
